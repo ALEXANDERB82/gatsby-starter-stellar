@@ -13,14 +13,14 @@ const Footer = (props) => (
             </ul>
         </section>
         <section>
-            <h2>Etiam feugiat</h2>
+            <h2>Contact Me</h2>
             <dl className="alt">
                 <dt>Address</dt>
                 <dd>1234 Somewhere Road &bull; Nashville, TN 00000 &bull; USA</dd>
                 <dt>Phone</dt>
-                <dd>(000) 000-0000 x 0000</dd>
+                <dd>(412) 418-2267</dd>
                 <dt>Email</dt>
-                <dd><a href="#">information@untitled.tld</a></dd>
+                <dd><a href="https://mail.google.com/mail/u/0/?tab=wm#inbox?compose=DmwnWrRmTWlvSVKjdHTFPLCjtQtPqKRkZxxlVwLzjjmtbVRzzJtnTgMfZfLkjzlRltnCBdZGrthg">abutler9882@gmail.com</a></dd>
             </dl>
             <ul className="icons">
                 <li><a href="#" className="icon fa-twitter alt"><span className="label">Twitter</span></a></li>
