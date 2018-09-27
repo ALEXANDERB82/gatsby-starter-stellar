@@ -45,7 +45,7 @@ class Index extends React.Component {
             <div className="spotlight">
               <div className="content">
                 <header className="major">
-                  <h2>Ipsum sed adipiscing</h2>
+                  <h2>About me</h2>
                 </header>
                 <p>Sed lorem ipsum dolor sit amet nullam consequat feugiat consequat magna
                 adipiscing magna etiam amet veroeros. Lorem ipsum dolor tempus sit cursus.
