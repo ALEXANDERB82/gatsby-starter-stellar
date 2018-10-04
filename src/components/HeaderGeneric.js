@@ -1,9 +1,13 @@
 import React from 'react'
+import Link from 'gatsby-link'
+
+import logo from '../assets/images/logo.svg';
 
 const HeaderGeneric = (props) => (
     <header id="header">
-        <h1>Generic</h1>
-        <p>Ipsum dolor sit amet nullam</p>
+        <li><Link to="" className="logo"><img src={logo} alt="" /></Link></li>
+        <h1>Resume</h1>
+        <p>My Current Resume</p>
     </header>
 )
 
