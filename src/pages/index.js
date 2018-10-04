@@ -48,7 +48,7 @@ class Index extends React.Component {
                 <header className="major">
                   <h2>About me</h2>
                 </header>
-                <p>I am currently a Computer Science majorand a spanish minor at Allegheny College. I currently have a job at
+                <p>I am currently a Computer Science major and a Spanish minor at Allegheny College. I currently have a job at
                 Starbucks as a barista with the hopes of soon finding an internship hopefully one to do with the field of Video
                 Game design. Ever since I was young I have had a fascination with Video Games and their ability to allow people
                 to live lives completely different to the one they are currently living. I hope to one day design a video game that is
@@ -79,10 +79,17 @@ class Index extends React.Component {
           <section id="second" className="main special">
             <header className="major">
               <h2>Goals</h2>
-              <p>THISIS WHERE MY GOALS GO</p>
+              <p>Short Term: I want to find an internship at a company that develops videogames so I can learn more firsthand about the
+              process of creating videogames from the ground up.</p>
+              <p>Long Term: I will eventually find a job at a company that
+              designs videogames, and use the money I earn from that job to start my own videogame design company.</p>
+              <p>Dreams: I would love to work for the company From Software because I love the approach they have taken to creating videogames.
+              They have created games that were drastically different from other games that were being created at the time. They create games
+              that have essentially changed the world and created their own genre of game. After I quit my job at From Software I will create my own
+              company named "Red Owl" that will make videogames capable of changing the world forever.</p>
             </header>
             <ul className="statistics">
-            <img src={fs} alt="" />
+            <img src={fs} alt="" class = "center"/>
             </ul>
             <p></p>
             <footer className="major">

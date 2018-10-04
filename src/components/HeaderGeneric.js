@@ -5,7 +5,7 @@ import logo from '../assets/images/logo.svg';
 
 const HeaderGeneric = (props) => (
     <header id="header">
-        <li><Link to="" className="logo"><img src={logo} alt="" /></Link></li>
+        <div><Link to="" className="logo"><img src={logo} alt="" /></Link></div>
         <h1>Resume</h1>
         <p>My Current Resume</p>
     </header>
