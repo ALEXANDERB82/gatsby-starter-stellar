@@ -13,7 +13,7 @@ class Generic extends React.Component {
 
     return (
       <div>
-        <Helmet title={get(this, 'props.data.site.siteMetadata.title')} />
+        <Helmet title={"Alexander Butler - Portfolio"} />
 
         <HeaderGeneric />
         <div id="main">
