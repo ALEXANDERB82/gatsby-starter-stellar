@@ -61,7 +61,7 @@ class Index extends React.Component {
 
           <section id="first" className="main special">
             <header className="major">
-              <h2>Resume</h2>
+              <h2>Portfolio</h2>
             </header>
             <ul className="features">
               <li>
