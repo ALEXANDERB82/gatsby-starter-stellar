@@ -5,7 +5,7 @@ import logo from '../assets/images/logo.svg';
 
 const Footer = (props) => (
     <footer id="footer">
-        
+
         <section>
             <h2>Contact Me</h2>
             <dl className="alt">
@@ -24,7 +24,7 @@ const Footer = (props) => (
 
             </ul>
         </section>
-        <p className="copyright">&copy; Untitled. Design: <a href="https://html5up.net">HTML5 UP</a>.</p>
+        <p className="copyright">&copy; Alexander Butler</p>
     </footer>
 )
 

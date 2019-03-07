@@ -29,7 +29,7 @@ class Index extends React.Component {
 
     return (
       <div>
-        <Helmet title={get(this, 'props.data.site.siteMetadata.title')} />
+        <Helmet title={"Alexander Butler - Home"} />
 
         <Header />
 
@@ -61,7 +61,7 @@ class Index extends React.Component {
 
           <section id="first" className="main special">
             <header className="major">
-              <h2>Resume</h2>
+              <h2>Portfolio</h2>
             </header>
             <ul className="features">
               <li>
