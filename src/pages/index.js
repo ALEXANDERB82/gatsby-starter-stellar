@@ -89,9 +89,23 @@ class Index extends React.Component {
               company named "Red Owl" that will make videogames capable of changing the world forever.</p>
             </header>
             <ul className="statistics">
-            <img src={fs} alt="" class = "center"/>
+            <img src={fs} alt="From Software" class = "center"/>
             </ul>
             <p></p>
+            <footer className="major">
+            </footer>
+          </section>
+
+          <section id="third" className="main special">
+            <header className="major">
+              <h2>Blog</h2>
+              <h3><b>CMPSC 481 Gator Grader Project</b></h3>
+              <p>Short Term: I want to find an internship at a company that develops videogames so I can learn more firsthand about the
+              process of creating videogames from the ground up.</p>
+            </header>
+            <ul className="statistics">
+            </ul>
+
             <footer className="major">
             </footer>
           </section>
