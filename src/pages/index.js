@@ -79,6 +79,7 @@ class Index extends React.Component {
           <section id="second" className="main special">
             <header className="major">
               <h2>Goals</h2>
+            </header>
               <p>Short Term: I want to find an internship at a company that develops videogames so I can learn more firsthand about the
               process of creating videogames from the ground up.</p>
               <p>Long Term: I will eventually find a job at a company that
@@ -87,10 +88,7 @@ class Index extends React.Component {
               They have created games that were drastically different from other games that were being created at the time. They create games
               that have essentially changed the world and created their own genre of game. After I quit my job at From Software I will create my own
               company named "Red Owl" that will make videogames capable of changing the world forever.</p>
-            </header>
-            <ul className="statistics">
             <img src={fs} alt="From Software" class = "center"/>
-            </ul>
             <p></p>
             <footer className="major">
             </footer>
