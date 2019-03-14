@@ -71,7 +71,7 @@ class Index extends React.Component {
             </ul>
             <footer className="major">
               <ul className="actions">
-                <li><Link to="/generic" className="button">Full Resume</Link></li>
+                <li><Link to="Butler_resume_.pdf" className="button" >Full Resume</Link></li>
               </ul>
             </footer>
           </section>
