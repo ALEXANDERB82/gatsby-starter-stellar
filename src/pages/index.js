@@ -97,12 +97,37 @@ class Index extends React.Component {
           </section>
 
           <section id="third" className="main special">
-            <header className="major">
-              <h2>Blog</h2>
-              <h3><b>CMPSC 481 Gator Grader Project</b></h3>
-              <p>Short Term: I want to find an internship at a company that develops videogames so I can learn more firsthand about the
-              process of creating videogames from the ground up.</p>
-            </header>
+            <div className="content">
+              <header className="major">
+                <h2>Blog</h2>
+                <h3><b>CMPSC 481 Gator Grader Project</b></h3>
+              </header>
+              <p>For this week my group tackled issue number 81 from the Gator Grader repository.
+              This issue focused on creating a general purpose markdown parser instead of
+              using regular expressions. The idea is that his code would be able to discern
+              paragraphs from other elements of markdown and be able to find the contents
+              of each one. My group decided that the best way to go complete the task was to
+              split up into three teams of two. One team was tasked with researching the
+              markdown parser that we had decide to use which was Commonmark. Another was
+              responsible for the implementation of the code from Commonmark. And the last
+              team was responsible for reviewing the code that was implemented and making sure
+              that it works well and the way it should. I worked on the team that was in
+              charge of researching Commonmark and I worked alongside Saejin. Our goal was to
+              go through the Commonmark code and try to know exactly how it works. We also were
+              tasked with finding out what functions or aspects of Commonmark would be the
+              most useful to us for creating a general markdown parser. The information that
+              we found to be useful for our implementation can be found in the link below.
+
+              In the next stage of this project I was working to solve issue 78 which was adding
+              a logo and also making a key features list on the top of the ReadMe. Before beginning
+              this I found out that the logo had already been created by another group and
+              the only part of this issue that needed addressed was creating the key features
+              list that would be at the top of the ReadMe. This issue was a documentation issue
+              that required a bit of research into the gatorgrader program to see what features of
+              gatorgrader would be considered key features. The work that was completed to resolve
+              issue 78 can be found in pull request 120 and a link for that can be found below.
+              </p>
+            </div>
             <ul className="statistics">
             </ul>
 
