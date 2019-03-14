@@ -100,30 +100,30 @@ class Index extends React.Component {
                 <h2>Blog</h2>
                 <h3><b>CMPSC 481 Gator Grader Project</b></h3>
               </header>
-              <p>For this week my group tackled issue number 81 from the Gator Grader repository.
-              This issue focused on creating a general purpose markdown parser instead of
-              using regular expressions. The idea is that his code would be able to discern
-              paragraphs from other elements of markdown and be able to find the contents
-              of each one. My group decided that the best way to go complete the task was to
-              split up into three teams of two. One team was tasked with researching the
-              markdown parser that we had decide to use which was Commonmark. Another was
-              responsible for the implementation of the code from Commonmark. And the last
-              team was responsible for reviewing the code that was implemented and making sure
-              that it works well and the way it should. I worked on the team that was in
-              charge of researching Commonmark and I worked alongside Saejin. Our goal was to
-              go through the Commonmark code and try to know exactly how it works. We also were
-              tasked with finding out what functions or aspects of Commonmark would be the
-              most useful to us for creating a general markdown parser. The information that
-              we found to be useful for our implementation can be found in the link below.
-
-              In the next stage of this project I was working to solve issue 78 which was adding
-              a logo and also making a key features list on the top of the ReadMe. Before beginning
-              this I found out that the logo had already been created by another group and
-              the only part of this issue that needed addressed was creating the key features
-              list that would be at the top of the ReadMe. This issue was a documentation issue
-              that required a bit of research into the gatorgrader program to see what features of
-              gatorgrader would be considered key features. The work that was completed to resolve
-              issue 78 can be found in pull request 120 and a link for that can be found below.
+              <p>Gator Grader is a tool used to check the work of programmers. Specifically
+              it is used at Allegheny College for checking the assignments of students
+              in the compter science department. Gator Grader has many chekcs to ensure
+              that the assigment being evaluated is up to the standards on the instructor.
+              During the Computer Science 481 course I worked with my entire class in order
+              to improve the Gator Grader software. We split up into smaller groups that
+              each tackled different issues of Gator Grader. Within my group we first tackled
+              issue 81 which saught to create a general purpose markdown parser instead of
+              using regular expressions. We created a parser that was able to discern
+              paragraphs from other elements in markdown. After completing this task
+              my team split up into smaller teams in order to handle seperate issues
+              one team worked to create more elements to the parser soo it can discern
+              other elements besides just paragraphs. While on the other hand my team worked
+              on different issues within Gator Grader. I worked on adding the key features
+              to the top of the ReadMe file. This involved doing a little research into
+              figuring out what specifically Gator Grader does. After this towards the end
+              of this project I reviwed some of the pull requests that were made and
+              approved some of them to be merged into the master. Through the complettion
+              of the project I didnt run into too many challenges. The main challenge that
+              I ran into was when researching Commonmark for the markdown parser.
+              Commonmark does not have any documentation so it was challenging to understand
+              at first what functions within Commonmark would need to be implemented
+              to succefully create our markdown parser. Overall I enjoyed working with Gator Grader
+              and hope to work with more software like this in the future.
               </p>
             </div>
             <ul className="statistics">
