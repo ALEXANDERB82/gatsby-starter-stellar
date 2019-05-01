@@ -125,6 +125,50 @@ class Index extends React.Component {
               to succefully create our markdown parser. Overall I enjoyed working with Gator Grader
               and hope to work with more software like this in the future.
               </p>
+
+              <h3><b>CMPSC 481 deltacov</b></h3>
+              <p>
+              For this software project my group was tasked with the creation of a course survey. The
+              way the survey is supposed to operate is similar to how google forms works.
+              It's serves as a system in which professors are able to create a survey for students to take
+              however there is one main difference between ours and google forms.Which is that with ours
+              the creator of the survey can dynamically save the responses in a database so that the
+              creator does not have to keep redownloading responses if new ones are added after
+              they already downloaded them previously. I worked on a few things mainly in our project.
+              First I was resposible for making sure that we are all adhering to the same coding standards
+              as we moved to complete our project. In order to do this I made sure to set up the formating
+              and linting tools as well as TravisCI and Codecov.io. In terms of linting tools We used; pylint
+              and flake8. In order to add the linting tools I had to install all of them using pip for example
+              using the comand; <code>pip install pylint</code> in the terminal. For formating tools we used
+              black and I installed it also using pip like the above example. I integrated travisCI with our
+              project in order to have automating formating and linting with each commit that is made so that
+              every commit and change made is held to the same standard.
+
+
+               In the beginning of the project I was responsible for
+              making sure things were set up such as linting tools. I made sure that the formatting
+              tool black was setup as well as the linting tools; pylint, flake8, I also made sure
+              codecov.io was set up. Since I was in charge of adding these tools it made sense that
+              I would also handle integrating travisCI with our program. I made sure that Travis ran
+              the linting tools that I had added to the repository. This helped us make sure that all of our code was held to the same standard by automatically running the tools mentioned before with each
+              commit that is made. Below is the link for the Pull request that demonstrates these changes.
+              Next I wanted to make sure that a little more was set up for github so that we could
+              effectively make changes to the repository and have them be consistent. I noticed that
+              there was an issue created for the lack of issue tracker template and also a pull request
+              template. In order to create these I first did a little research on what good pull request
+              and issue tracker templates look like. After this I went through github under the settings
+              there is a section to create templates. Using what I learned from my research I created
+              simple yet effective templates that would help us be consistent in our coding and
+              more efficient. The issue that this solved and a link to the github folder where the
+              templates are located can be found below.
+              For the rest of the project we have all slowly been tackling the project the best we can.
+              We ran into problems at first trying to use django in order to make the web app, mainly
+              because none of us had any experience using django. After this we decided to use flask instead
+              because other groups in the class were also using this and it made it easier to get assistance
+              if we needed it. However we still didn't get to completely finish the project as intended.
+              A combination of not having a lot of time in order to complete the project and our small amount
+              of experience using flask made it hard to get it done.
+              </p>
             </div>
             <ul className="statistics">
             </ul>
