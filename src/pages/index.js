@@ -126,7 +126,7 @@ class Index extends React.Component {
               and hope to work with more software like this in the future.
               </p>
 
-              <h3><b>CMPSC 481 deltacov</b></h3>
+              <h3><b>CMPSC 481 gatorquery</b></h3>
               <p>
               For this software project my group was tasked with the creation of a course survey. The
               way the survey is supposed to operate is similar to how google forms works.
