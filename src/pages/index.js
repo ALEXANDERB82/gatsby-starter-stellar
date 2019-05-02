@@ -149,7 +149,7 @@ class Index extends React.Component {
               this I did some reasearch into what good templates look like so that our templates would be
               as effective as possible. I went into the setting for the repository in github and under the
               template section you have the ability to create new templates and I created both templates
-              which can be found <a href="https://github.com/GatorEducator/gatorquery/tree/master/.github">here</a> in the github folder of the repository.
+              which can be found <a href="https://github.com/GatorEducator/gatorquery/tree/master/.github" target="_blank">here</a> in the github folder of the repository.
               Overall for the project our group made a web app however, the program is incomplete. From the
               begining of the project no one in our group had much experience with using flask or django
               so it made it really hard to actually complete the project with our time constraint. I think
