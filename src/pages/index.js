@@ -155,7 +155,7 @@ class Index extends React.Component {
               so it made it really hard to actually complete the project with our time constraint. I think
               that with more time our team could have definately comppleted the project. I hope to be able
               to get the chance to even finish the project in the future because ven though it was difficult
-              it was fun to work on but very stressful because of the little toime to complete it.
+              it was fun to work on but very stressful because of the little time to complete it.
               </p>
             </div>
             <ul className="statistics">
